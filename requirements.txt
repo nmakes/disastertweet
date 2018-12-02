@@ -1,0 +1,7 @@
+emoji
+nltk
+numpy
+matplotlib
+sklearn
+gensim
+tqdm
